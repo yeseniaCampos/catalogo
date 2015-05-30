@@ -1,0 +1,8 @@
+Django==1.5.3
+Pillow==1.2
+djangorestframework==2.3.14
+gunicorn==18.0
+six==1.5.2
+static3==0.5.1
+virtualenv==1.11.6
+wsgiref==0.1.2
